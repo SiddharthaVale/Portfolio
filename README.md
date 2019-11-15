@@ -2,5 +2,5 @@
 Siddhartha Vale - Projects &amp; Portfolio
 
 Python Projects:
-Deep Learning
-Prediciton Model
+1. Deep Learning
+2. Prediciton Model
