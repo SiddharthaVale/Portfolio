@@ -1,1 +1,55 @@
-Resume 2020
+#SIDDHARTHA VALE
+__Address: 83 Brook Street Apt 1, Brookline 02445 | Phone: 609-558-0551 | Email: siddhartha.vale@gmail.com__
+
+## EDUCATION
+Northeastern University, Boston, MA                                                           Dec. 2018 – Dec. 2019
+Master of Science in Information Systems
+Relevant Courses: Big Data Intelligence, Advanced Data Science, Data Management & Database design, Business Analysis & Information Systems, Application Engineering and Development, Business Ethics & IP
+
+Royal Melbourne Institute of Technology, Melbourne Australia                                  Dec. 2012 - Dec. 2016
+Bachelor of Engineering in Mechanical Engineering,
+Relevant Courses: Applied Thermodynamics, Fluid Mechanics, Computer Aided Design, Solid Mechanics, Engineering Enterprises, Advanced Mathematics (Statistics & Calculus), Mechatronics
+
+## SUMMARY OF QUALIFICATIONS
+Programming: Python, Spark, Java, Azure, AWS
+Database: MySQL, Microsoft Access
+Business Intelligence: Tableau, Power BI, Qlik Sense, Advanced Excel (Pivot Tables, VLOOKUP and IF functions)
+Tools: Jupyter Notebooks, NetBeans IDE, PyCharm CE, Databricks, Lucid Chart, Toad Modeler, ER Studio
+
+## ACADEMIC PROJECTS
+__UFC Prediction Model | Database Management & BI__ (www.github.com/SiddharthaVale/Portfolio) Aug. 2018 – Dec. 2018
+Technologies Used: Python, Jupyter Notebooks, Databricks, Tableau
+• Attained an accuracy score of 69.88%, 5% higher than any other model available and 7% higher than the bookies accuracy
+• Developed a prediction system with increased accuracies using supervised learning and neural network models such as logistic regression, random forest and multi-layer perceptron
+• Performed precise exploratory data analysis on test and train datasets with evidence given proving gaps in prior work which is addressed with our model
+
+__Assembly Line System | Database Design__                                                    Jan. 2018 – Apr. 2018
+Technologies Used: MySQL, Lucid Chart
+• Created an Assembly Line System to manage all operations in a manufacturing company including parts stamping, initial assembly, final assembly and inspection
+• Reduced the need for manual control by implementing hard coded views, functions, triggers and different stored procedures
+• Applied concepts of relational databases & executed analysis. Design ER model applying Lucid charts and MySQL
+
+__Bitcoin Transaction Management | Application Development__                                  Jan. 2018 – Apr. 2018
+Technologies Used: Java, JFrame
+• Implemented Cryptocurrency concept of transaction for bitcoins from different enterprises through a system administrator
+• Instrumented blockchain technology to record transaction details and measure security of the transactions
+• Catered to enterprises with search results for best deals. Led a three-person team through various aspects of the project
+
+__Travel Application | Business Analytics__                                                   Jan. 2019 – Mar. 2019
+Technologies Used: Balsamiq
+• Design an application to rival Expedia & TripAdvisor, with innovative systems not utilized by competition
+• Apply business analytics techniques to maximize user interactions & target large audience demographics
+
+## WORK EXPERIENCE
+__Emerson Process Management, Pune, India__                                                   Nov. 2015 – Feb. 2016
+Engineering Intern (New Product Dev. Team)
+• Access design impact of innovative technology combined with use case data provided by clients’ product applications
+• Developed a testing & verification framework to measure success of products
+• Documented new technologies & their success with information about designs & its success for production standards
+
+__Formula-SAE E88 Racing, Melbourne, Australia__                                              Nov. 2014 – Dec. 2016
+Aerodynamics & Cooling Engineer
+• Designed numerous models to interpret the efficiency of air cooling the critical components of the vehicle
+• Constructed visually appealing data plots to validate the information sourced from testing
+• Conducted intradepartmental communications to optimize workflow and minimize margins for errors
+• Performed computational fluid dynamic testing on the aero to prove its benefits to the Global SAE governing body.
